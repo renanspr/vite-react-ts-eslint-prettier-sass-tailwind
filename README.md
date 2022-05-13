@@ -12,7 +12,7 @@ Boilerplate with:
 ```npm run dev```
 
 # Run build
-```npm run lint ```
+```npm run build```
 
 # Run lint
 ```npm run lint```
