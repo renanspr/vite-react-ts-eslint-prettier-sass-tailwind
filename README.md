@@ -8,4 +8,11 @@ Boilerplate with:
 - Scss
 - Tailwind
 
+# Run project
+```npm run dev```
 
+# Run build
+```npm run lint ```
+
+# Run lint
+```npm run lint```
